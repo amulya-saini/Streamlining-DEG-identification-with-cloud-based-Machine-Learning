@@ -1,4 +1,3 @@
-# Group1--cloud-project
 Streamlining DEG identification with cloud-based Machine Learning
 
 In main focus of the project was to analyse the raw RNA-seq alignment files in BAM (Binary Alignment mapping) format, perform gene quantification and identify the biomarker features using PYSPARK.
